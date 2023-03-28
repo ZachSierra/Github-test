@@ -3,5 +3,10 @@
 making another change da fuq
 
 just working on a feature!!
+<<<<<<< HEAD
 test
 hello
+=======
+me too!
+trying to start a conflict
+>>>>>>> awesome
